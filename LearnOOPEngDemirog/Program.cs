@@ -5,6 +5,8 @@ using LearnOOPEngDemirog;
 
 //Demo();
 
+// Polymorphism is implemented
+
 ICustomerDal[] customerDals = new ICustomerDal[] {
     new SqlServerCustomerDal(), 
     new OracleServerCustomerDal(),

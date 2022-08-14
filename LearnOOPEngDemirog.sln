@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnOOPEngDemirog", "Learn
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{A66EF5E4-1C73-445D-852E-E4155B915D17}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{40486D51-2149-4FEE-8BEC-A30B3C6978F4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{A66EF5E4-1C73-445D-852E-E4155B915D17}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A66EF5E4-1C73-445D-852E-E4155B915D17}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A66EF5E4-1C73-445D-852E-E4155B915D17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40486D51-2149-4FEE-8BEC-A30B3C6978F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40486D51-2149-4FEE-8BEC-A30B3C6978F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40486D51-2149-4FEE-8BEC-A30B3C6978F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40486D51-2149-4FEE-8BEC-A30B3C6978F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
