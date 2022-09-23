@@ -5,15 +5,17 @@ VisualStudioVersion = 17.0.32014.148
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LearnOOPEngDemirog", "LearnOOPEngDemirog\LearnOOPEngDemirog.csproj", "{827583FA-2078-43AC-A580-3D01699306E0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{A66EF5E4-1C73-445D-852E-E4155B915D17}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InterfacesDemo", "InterfacesDemo\InterfacesDemo.csproj", "{A66EF5E4-1C73-445D-852E-E4155B915D17}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inheritance", "Inheritance\Inheritance.csproj", "{40486D51-2149-4FEE-8BEC-A30B3C6978F4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Inheritance", "Inheritance\Inheritance.csproj", "{40486D51-2149-4FEE-8BEC-A30B3C6978F4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{8C6FFCBE-5A88-4BF3-BEFC-81D84B8B45A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VirtualMethods", "VirtualMethods\VirtualMethods.csproj", "{8C6FFCBE-5A88-4BF3-BEFC-81D84B8B45A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{4426BED5-1037-49C8-8594-2C944904F513}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AbstractClasses", "AbstractClasses\AbstractClasses.csproj", "{4426BED5-1037-49C8-8594-2C944904F513}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RecapDemo", "RecapDemo\RecapDemo.csproj", "{92E0D44A-45BE-414D-856C-EDD6BF0C7773}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RecapDemo", "RecapDemo\RecapDemo.csproj", "{92E0D44A-45BE-414D-856C-EDD6BF0C7773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constructor", "Constructor\Constructor.csproj", "{865BED46-E04F-449D-8A75-7195B8CD68E3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{92E0D44A-45BE-414D-856C-EDD6BF0C7773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{92E0D44A-45BE-414D-856C-EDD6BF0C7773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{92E0D44A-45BE-414D-856C-EDD6BF0C7773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{865BED46-E04F-449D-8A75-7195B8CD68E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{865BED46-E04F-449D-8A75-7195B8CD68E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{865BED46-E04F-449D-8A75-7195B8CD68E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{865BED46-E04F-449D-8A75-7195B8CD68E3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
