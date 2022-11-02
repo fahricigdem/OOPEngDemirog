@@ -22,9 +22,12 @@ foreach (Person person in people)
 
 List<Person> people2 = new List<Person>();
 Student student1 = new Student { Id = 1, FirstName = "Onur", LastName = "Cigdem", Department = "Computer" };
-Customer customer1 = new Customer { Id = 1, FirstName = "Onur", LastName = "Cigdem",City="Tokat" };
+Customer customer1 = new Customer { Id = 2, FirstName = "Onur", LastName = "Cigdem",City="Tokat" };
+Customer customer2 = new Customer { Id = 3, FirstName = "Onur2", LastName = "Cigdem",City="Tokat" };
+
 Ekle(customer1);
 Ekle(student1);
+//people2[2] = customer2; // error: out of range
 Sil(customer1);
 void Ekle(Person person)
 {
